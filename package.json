@@ -3,7 +3,25 @@
   "module": "src/index.ts",
   "type": "module",
   "devDependencies": {
-    "bun-types": "latest"
+    "bun-types": "latest",
+    "prettier": "^3.2.5",
+    "eslint": "^8.56.0",
+    "eslint-config-next": "14.0.4",
+    "eslint-plugin-mdx": "^3.1.5",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-airbnb-typescript": "^17.1.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-formatter-pretty": "^6.0.0",
+    "eslint-plugin-eslint-comments": "^3.2.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-jest": "^27.6.0",
+    "eslint-plugin-jsx-a11y": "^6.8.0",
+    "eslint-plugin-prettier": "^5.1.1",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-unicorn": "^50.0.1",
+    "@typescript-eslint/eslint-plugin": "^6.15.0",
+    "@typescript-eslint/parser": "^6.15.0"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
